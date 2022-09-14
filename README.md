@@ -4,4 +4,6 @@
 
 ## 目录
 ###  实验一
-- [a](https://github.com/fightinfg/fightinfg.github.io/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%80/demos/a.html)
+
+| ---- | ---- | ---- | ---- |
+|[a](./实验一/demos/a.html)|[b](./实验一/demos/b.html)|[c](./实验一/demos/c.html)|[d](./实验一/demos/d.html)|
