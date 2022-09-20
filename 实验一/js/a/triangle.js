@@ -28,7 +28,7 @@ window.onload = function init(){
 	];
 
 	// Configure WebGL
-	gl.viewport( 0, 0, canvas.width, canvas.height );//绘制区域
+	gl.viewport( 0, 0, canvas.width, canvas.height );//绘制区域左上角是（0,0），右下角是（canvas.width, canvas.height ），右下角也是你图形的点
 	gl.clearColor( 1.0, 1.0, 1.0, 1.0 );//初始化背景颜色
 
 	// Load shaders and initialize attribute buffers
