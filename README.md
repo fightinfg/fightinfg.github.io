@@ -5,7 +5,7 @@
 ## 目录
 ###  实验一
 
-- [a](./demos/实验一/demos/a.html) 
-- [b](./demos/实验一/demos/b.html)
-- [c](./demos/实验一/demos/c.html)
-- [d](./demos/实验一/demos/d.html)
+- [a](./demos/实验一/a.html) 
+- [b](./demos/实验一/b.html)
+- [c](./demos/实验一/c.html)
+- [d](./demos/实验一/d.html)
