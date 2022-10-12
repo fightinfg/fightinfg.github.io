@@ -10,12 +10,12 @@
 - [c](./demos/实验一/c.html)
 - [d](./demos/实验一/d.html)
 
-###  自己的图案
+###  实验二---自己的图案
 
 - [刺猬1.0](./demos/自己的图案/f.html) 
 - [刺猬2.0](./demos/自己的图案/f1.html)
 
-###  实验二
+###  实验三
 
 - [a](./demos/实验二/a.html) 
 - [b](./demos/实验二/b.html)
