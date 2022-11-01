@@ -34,3 +34,7 @@
 - [b](./demos/实验四/b.html)
 - [c](./demos/实验四/c.html)
 - [d](./demos/实验四/d.html)
+
+###  实验六
+
+- [a](./demos/实验五/a.html) 
