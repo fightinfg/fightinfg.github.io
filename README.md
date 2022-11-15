@@ -41,4 +41,4 @@
 
 ###  实验七
 
-- [a](./demos/实验七/a.html) 
+- [a](./demos/实验七/lab07-b.html) 
